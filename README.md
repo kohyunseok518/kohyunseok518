@@ -1,17 +1,17 @@
 <pre>
-  📂 Portfolio : <a href="https://kohyunseok518.github.io/portfolio/">kohyunseok518.github.io/portfolio</a>
-  📚 Blog      : <a href="https://kohyunseok518.github.io">kohyunseok518.github.io</a>
+  Portfolio : <a href="https://kohyunseok518.github.io/portfolio/">kohyunseok518.github.io/portfolio</a>
+  Blog      : <a href="https://kohyunseok518.github.io">kohyunseok518.github.io</a>
 </pre>
 
 ---
 
-### 👋 About Me
+### About Me
 
 실사용자 445명이 쓴 서비스를 설계·배포·운영한 백엔드 개발자입니다.
 문제가 생기면 먼저 측정하고, 재현한 뒤 고치고, 같은 방법으로 다시 확인합니다.
 
--  **[콕찔러보기](https://github.com/seoil-power-rangers)** — 축제 3일간 실사용자 445명 · 채팅 메시지 6,156건 · 서버 오류율 0.002%
-- 🔎 **[FirstFolio AI](https://github.com/KB7-25-2/FirstFolio-AI)** — RAG 검색 근거 품질 60% → 91%, 홀드아웃 검증으로 과적합 가중치 채택 차단
+- **[콕찔러보기](https://github.com/seoil-power-rangers)** — 축제 3일간 실사용자 445명 · 채팅 메시지 6,156건 · 서버 오류율 0.002%
+- **[FirstFolio AI](https://github.com/KB7-25-2/FirstFolio-AI)** — RAG 검색 근거 품질 60% → 91%, 홀드아웃 검증으로 과적합 가중치 채택 차단
 
 ---
 
