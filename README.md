@@ -1,6 +1,6 @@
 <pre>
   Portfolio : <a href="https://kohyunseok518.github.io/portfolio/">kohyunseok518.github.io/portfolio</a>
-  Blog      : <a href="https://kohyunseok518.github.io">kohyunseok518.github.io</a>
+  <!-- Blog      : <a href="https://kohyunseok518.github.io">kohyunseok518.github.io</a> -->
 </pre>
 
 ---
