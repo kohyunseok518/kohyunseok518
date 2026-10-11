@@ -1,4 +1,5 @@
 <pre>
+  Resume    : <a href="https://kohyunseok518.github.io/resume/">kohyunseok518.github.io/resume</a>
   Portfolio : <a href="https://kohyunseok518.github.io/portfolio/">kohyunseok518.github.io/portfolio</a>
   <!-- Blog      : <a href="https://kohyunseok518.github.io">kohyunseok518.github.io</a> -->
 </pre>
